@@ -26,6 +26,8 @@ Berikut adalah daftar file yang terdapat dalam proyek ini:
    javac MainApp.java
    java MainApp
    ```
+## cara kedua: 
+jika kalian sudah memiliki compiler seperti vs code maupun intelij Idea kalian bisa run program tsb melalui aplikasi diatas
 
 ## Prasyarat
 - **Java Development Kit (JDK)** versi 21 atau lebih tinggi.
