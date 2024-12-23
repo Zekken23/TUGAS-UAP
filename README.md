@@ -1,5 +1,5 @@
 # Sistem Pemesanan Restoran
-
+# Pesankan Lee!!
 ## Deskripsi
 Proyek ini adalah sebuah aplikasi desktop sederhana yang dirancang untuk mendukung sistem pemesanan di restoran. Aplikasi ini memungkinkan pengguna untuk melakukan pemesanan menu, mengelola data pemesanan, dan memberikan konfirmasi pemesanan, dan melakukan pembayaran.
 
